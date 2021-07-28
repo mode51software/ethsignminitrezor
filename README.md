@@ -7,4 +7,4 @@ as needed for [Ethereum signing](https://medium.com/mycrypto/the-magic-of-digita
 Based on [trezor-firmware core/v2.4.1](https://github.com/trezor/trezor-firmware/tree/core/v2.4.1).
 
 ## License
-[MIT License](LICENSE.md)
+[MIT License](LICENSE)
